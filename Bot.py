@@ -2,12 +2,7 @@ import nextcord
 from nextcord.ext import commands
 import sqlite3
 
-# To Do:
-# Start using cogs - organize code better
-# Add the Roblox API connection - Need API key
-# All code work first try - Impossible
-# Sqlite3 DB - DONE!
-# and make f'{prefix}status command - !ping needs update
+
 
 TOKEN = 'YOUR_BOT_TOKEN'
 intents = nextcord.Intents.default()
